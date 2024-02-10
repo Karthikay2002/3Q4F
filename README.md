@@ -9,18 +9,23 @@
 - Classical trading methods are slow and lack optimization, prompting the introduction of Reinforcement learning (RL) for adaptive strategies. But RL faces scalability and noise issues. Enter Quantum Computing (QC), offering faster computation and better optimization, potentially revolutionizing stock trading.
 
 # Problem Statement and Proposed Solution:-
-- 
+- Problem Statement:
+- Proposed Solution: Quantum Reinforcement Learning (QRL) offers a solution by leveraging quantum algorithms to optimize portfolio allocations. QRL algorithms are expected to provide more stable and efficient portfolio optimization compared to traditional RL methods, thereby mitigating the challenges associated with volatile portfolio allocations and enhancing overall investment efficacy. 
 
 # Tracks and Bounties we targetted:-
 - Building for the Finance Track at Hacklytics'24!
   
 # Development Flow:-
-- 
+- Taken inspiration from [[1]([url](https://arxiv.org/pdf/0810.3828.pdf))] where they theoriesed about X, Y and Z.
+- We worked on to build a RL...
+- We compared it by adding Quantum Algorithm's Grover's Algorithmic Concepts to do.....
+- Upon this, that happens...
+- Comparing graphs and metrics, we came to a conclusion that...
 
 # Challenges we ran into:-
 - Trading on a portfolio of stocks, and how to diversify it for optimal conditions.
 
-# How to solve it:
+# How to solve it:-
 Two options seemed viable:
 - Equally splitting the portfolio among the 10 stocks (example), and optimizing the trade stocks using its own QRL based trading methods.
 - Performing portfolio optimization to reduce risk for higher return, and rebalnacing portfolios periodically.
@@ -34,7 +39,7 @@ Two options seemed viable:
 - Implementation of transaction costs as a prudent measure to address challenges.
 - Imposition of constraints on portfolio turnover to mitigate the frequency and scale of allocation adjustments.
 
-# Benefits of Interventions:
+# Benefits of Interventions:-
 - Mitigation of the risk of excessive trading costs.
 - Promotion of stability in portfolio management practices.
 - Enhancement of overall investment efficacy.
