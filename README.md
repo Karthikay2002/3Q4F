@@ -1,5 +1,6 @@
 # 3Q4F
-![image](https://github.com/Karthikay2002/3Q4F/assets/54672017/98cbe72e-a6a6-462c-bf9a-6b90cbc6e48b)
+<img src="https://github.com/Karthikay2002/3Q4F/assets/54672017/98cbe72e-a6a6-462c-bf9a-6b90cbc6e48b" alt="Image" width="400">
+
 - GitHub Repo for Hacklytics'24 - GT Hackathon! 
 - We are a team of 4, building 3Q4F (**Q**uant, **Q**uantum, and **Q**-Learning for **F**inance), a quantum algorithm-based trading platform, offering superior performance compared to Reinforcement Learning (RL) methods, revolutionizing stock trading. 
 
