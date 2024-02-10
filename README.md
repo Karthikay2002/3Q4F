@@ -18,6 +18,25 @@
 - 
 
 # Challenges we ran into:-
-- 
+- Trading on a portfolio of stocks, and how to diversify it for optimal conditions.
+
+# How to solve it:
+Two options seemed viable:
+- Equally splitting the portfolio among the 10 stocks (example), and optimizing the trade stocks using its own QRL based trading methods.
+- Performing portfolio optimization to reduce risk for higher return, and rebalnacing portfolios periodically.
+   
+# Future Challenges to deal with:-
+- Significant fluctuations in asset allocation due to the quantum computing-based portfolio optimizer's operation.
+- Execution of substantial trade volumes leading to heightened trading activity.
+- Adverse market impact, especially pronounced for less liquid assets or during periods of heightened volatility.
+
+# Preventive Measures:-
+- Implementation of transaction costs as a prudent measure to address challenges.
+- Imposition of constraints on portfolio turnover to mitigate the frequency and scale of allocation adjustments.
+
+# Benefits of Interventions:
+- Mitigation of the risk of excessive trading costs.
+- Promotion of stability in portfolio management practices.
+- Enhancement of overall investment efficacy.
 
 # Images
