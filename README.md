@@ -5,9 +5,13 @@
 - We are a team of 4, building 3Q4F (**Q**uant, **Q**uantum, and **Q**-Learning for **F**inance), a quantum algorithm-based trading platform, offering superior performance compared to Reinforcement Learning (RL) methods, revolutionizing stock trading. 
 
 # Inspiration:-
-- Classical trading methods often suffer from limited optimization capabilities and slower decision-making processes, leading to suboptimal results in dynamic market environments. Reinforcement learning (RL) was introduced to address these shortcomings by enabling sequential decision-making and adaptive strategies based on technical indicators. However, RL algorithms may struggle with scalability, convergence issues, and susceptibility to noise, prompting the exploration of quantum computing (QC) for its potential to offer faster computation, improved optimization, and greater robustness in stock trading applications.
-
+- Classical trading methods often suffer from limited optimization capabilities and slower decision-making processes, leading to suboptimal results in dynamic market environments. Reinforcement learning (RL) was introduced to address these shortcomings by enabling sequential decision-making and adaptive strategies based on technical indicators.
  <img width="977" alt="image" src="https://github.com/Karthikay2002/3Q4F/assets/54672017/bc6bb431-0a9e-46dc-aa65-abc2452d9d86">
+
+  However, RL algorithms may struggle with scalability, convergence issues, and susceptibility to noise, prompting the exploration of quantum computing (QC) for its potential to offer faster computation, improved optimization, and greater robustness in stock trading applications.
+  
+ - Taking inspiration from [[1]([url](https://arxiv.org/pdf/0810.3828.pdf))] where they theoriesed about Quantum Superposition States and Circuits for the action space, we built a Quantum Reinforcement Learning based Trader as an Enhancement of an RL based trader.
+- There is theoretical evidence on the quadratic speedup for convergence of the RL algorithm on employing Quantum Computing [[2]([url](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.4.031002))]
 
 # TL;DR:-
 - Classical trading methods are slow and lack optimization, prompting the introduction of Reinforcement learning (RL) for adaptive strategies. But RL faces scalability and noise issues. Enter Quantum Computing (QC), offering faster computation and better optimization, potentially revolutionizing stock trading.
@@ -21,8 +25,6 @@
 - Building for the Finance Track at Hacklytics'24!
   
 # Development Flow:-
-- Taken inspiration from [[1]([url](https://arxiv.org/pdf/0810.3828.pdf))] where they theoriesed about Quantum Superposition States and Circuits for the action space, we built a Quantum Reinforcement Learning based Trader as an Enhancement of an RL based trader.
-- There is theoretical evidence on the quadratic speedup for convergence of the RL algorithm on employing Quantum Computing [[2]([url](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.4.031002))]
 - We worked on a Quantum Computing Based Reinforcement Learner, with the quantum states encoded as the technical indicators' values
 - We compared it by adding Quantum Algorithm's Grover's Algorithmic Concepts to do.....
 - Upon this, that happens...
