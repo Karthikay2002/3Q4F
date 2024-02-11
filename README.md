@@ -18,8 +18,9 @@
 - Building for the Finance Track at Hacklytics'24!
   
 # Development Flow:-
-- Taken inspiration from [[1]([url](https://arxiv.org/pdf/0810.3828.pdf))] where they theoriesed about X, Y and Z.
-- We worked on to build a RL...
+- Taken inspiration from [[1]([url](https://arxiv.org/pdf/0810.3828.pdf))] where they theoriesed about Quantum Superposition States and Circuits for the action space, we built a Quantum Reinforcement Learning based Trader as an Enhancement of an RL based trader.
+- There is theoretical evidence on the quadratic speedup for convergence of the RL algorithm on employing Quantum Computing [[2]([url](https://journals.aps.org/prx/pdf/10.1103/PhysRevX.4.031002))]
+- We worked on a Quantum Computing Based Reinforcement Learner, with the quantum states encoded as the technical indicators' values
 - We compared it by adding Quantum Algorithm's Grover's Algorithmic Concepts to do.....
 - Upon this, that happens...
 - Comparing graphs and metrics, we came to a conclusion that...
@@ -47,3 +48,10 @@ Two options seemed viable:
 - Enhancement of overall investment efficacy.
 
 # Images
+
+
+
+
+# References
+[1] - D. Dong, C. Chen, H. Li and T. -J. Tarn, "Quantum Reinforcement Learning," in IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), vol. 38, no. 5, pp. 1207-1220, Oct. 2008, doi: 10.1109/TSMCB.2008.925743
+[2] - Giuseppe Davide Paparo, Vedran Dunjko, Adi Makmal, Miguel Angel Martin-Delgado, and Hans J. Briegel, Quantum Speedup for Active Learning Agents, Phys. Rev. X 4, 031002
