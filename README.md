@@ -11,8 +11,8 @@
 - Classical trading methods are slow and lack optimization, prompting the introduction of Reinforcement learning (RL) for adaptive strategies. But RL faces scalability and noise issues. Enter Quantum Computing (QC), offering faster computation and better optimization, potentially revolutionizing stock trading.
 
 # Problem Statement and Proposed Solution:-
-- Problem Statement:
-- Proposed Solution: Quantum Reinforcement Learning (QRL) offers a solution by leveraging quantum algorithms to optimize portfolio allocations. QRL algorithms are expected to provide more stable and efficient portfolio optimization compared to traditional RL methods, thereby mitigating the challenges associated with volatile portfolio allocations and enhancing overall investment efficacy. 
+- Proposed Solution: Quantum Reinforcement Learning (QRL) offers a solution by leveraging quantum algorithms to optimize portfolio allocations. QRL algorithms are expected to provide more stable and efficient portfolio optimization compared to traditional RL methods, thereby mitigating the challenges associated with volatile portfolio allocations and enhancing overall investment efficacy.
+- <img width="977" alt="image" src="https://github.com/Karthikay2002/3Q4F/assets/54672017/bc6bb431-0a9e-46dc-aa65-abc2452d9d86">
 
 # Tracks and Bounties we targetted:-
 - Building for the Finance Track at Hacklytics'24!
