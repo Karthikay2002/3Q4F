@@ -55,9 +55,10 @@ Two options seemed viable:
 # Images
 <img width="1009" alt="Screenshot 2024-02-10 at 11 59 21 PM" src="https://github.com/Karthikay2002/3Q4F/assets/54672017/8584e092-e77c-4caf-9300-b3ae87059eb5">
 
-![Figure1](https://github.com/Karthikay2002/3Q4F/assets/54672017/04765999-309c-419b-a6ca-b56b1b530ba0)
 
 ![f0b6afbd62c8458698323e6d7e286e9c](https://github.com/Karthikay2002/3Q4F/assets/54672017/b5e9451a-4442-47e1-8e13-ca5f06d0becd)
+![Figure1](https://github.com/Karthikay2002/3Q4F/assets/54672017/04765999-309c-419b-a6ca-b56b1b530ba0)
+
 ![7795adb5a8d540c9a59c564163f017e7](https://github.com/Karthikay2002/3Q4F/assets/54672017/4ae693bd-532e-4c84-83c2-08b2196bfd5a) ![8eeb9a37ab3048a0acfb1b6bd83ac331](https://github.com/Karthikay2002/3Q4F/assets/54672017/4b62522b-9a8c-4689-81b3-a8f0c8a2de5b)
 
 
