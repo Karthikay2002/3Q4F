@@ -25,10 +25,12 @@
 - Building for the Finance Track at Hacklytics'24!
   
 # Development Flow:-
-- We worked on a Quantum Computing Based Reinforcement Learner, with the quantum states encoded as the technical indicators' values
-- We compared it by adding Quantum Algorithm's Grover's Algorithmic Concepts to do.....
-- Upon this, that happens...
-- Comparing graphs and metrics, we came to a conclusion that...
+ 1. **Understanding and Preprocessing Data**: Collect historical stock price data and select relevant technical indicators, like Bollinger Bands, EMA and RSI.
+ 2. **Implementing Quantum Reinforcement Learner (QRL)**:
+     1. With the quantum states represent the value of the technical indicators and the actions are buy,sell and hold.
+     2. Implementing Grover's iteration algorithm for search of optimal buy-sell signals on the state action space.
+ 4. **Training and Evaluation**: Training on historical price data and backtesting our strategy to assess portfolio returns, risk and performance regarding benchmark.
+ 5. **Portfolio Return Assessment**: Providing a framework for future training on a portfolio of stocks, providing graphs and metrics to assesss performance of our trader when compared to benchmark and a typical Q-Learning Trader.
 
 # Challenges we ran into:-
 - Trading on a portfolio of stocks, and how to diversify it for optimal conditions.
