@@ -53,5 +53,5 @@ Two options seemed viable:
 
 
 # References
-[1] - D. Dong, C. Chen, H. Li and T. -J. Tarn, "Quantum Reinforcement Learning," in IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), vol. 38, no. 5, pp. 1207-1220, Oct. 2008, doi: 10.1109/TSMCB.2008.925743
-[2] - Giuseppe Davide Paparo, Vedran Dunjko, Adi Makmal, Miguel Angel Martin-Delgado, and Hans J. Briegel, Quantum Speedup for Active Learning Agents, Phys. Rev. X 4, 031002
+- [1] - D. Dong, C. Chen, H. Li and T. -J. Tarn, "Quantum Reinforcement Learning," in IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), vol. 38, no. 5, pp. 1207-1220, Oct. 2008, doi: 10.1109/TSMCB.2008.925743
+- [2] - Giuseppe Davide Paparo, Vedran Dunjko, Adi Makmal, Miguel Angel Martin-Delgado, and Hans J. Briegel, Quantum Speedup for Active Learning Agents, Phys. Rev. X 4, 031002
