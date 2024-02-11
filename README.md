@@ -12,7 +12,7 @@
 
 # Problem Statement and Proposed Solution:-
 - Proposed Solution: Quantum Reinforcement Learning (QRL) offers a solution by leveraging quantum algorithms to optimize portfolio allocations. QRL algorithms are expected to provide more stable and efficient portfolio optimization compared to traditional RL methods, thereby mitigating the challenges associated with volatile portfolio allocations and enhancing overall investment efficacy.
-- <img width="977" alt="image" src="https://github.com/Karthikay2002/3Q4F/assets/54672017/bc6bb431-0a9e-46dc-aa65-abc2452d9d86">
+ <img width="977" alt="image" src="https://github.com/Karthikay2002/3Q4F/assets/54672017/bc6bb431-0a9e-46dc-aa65-abc2452d9d86">
 
 # Tracks and Bounties we targetted:-
 - Building for the Finance Track at Hacklytics'24!
